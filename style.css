@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap');
 body{
-    background-color: rgb(22, 20, 20);
+    background-color: rgb(255, 255, 255);
 }
     
 *{
@@ -1127,4 +1127,5 @@ nav{
     left: 70%;
     bottom: 100px;
      cursor: pointer;
+
 }
